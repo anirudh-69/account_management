@@ -1,7 +1,10 @@
 
 # Bank Account Management System Database with PostgreSQL
 
+
 ##### This project demonstrates the design and implementation of a robust Bank Account Management System using PostgreSQL. It showcases the end-to-end process of database design and management, leveraging conceptual, logical, and physical data modeling techniques to create a reliable and scalable relational database.
+
+
 
 ![alt text](images/erd_account_management.png)
 
